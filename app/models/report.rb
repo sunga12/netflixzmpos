@@ -1,7 +1,7 @@
 class Report < ApplicationRecord
 
     # Associations
-    has_many :shop_transactions, foreign_key: "shop_transaction_id"
+    has_many :shop_transactions
   
     # Attributes
     attribute :reporttype, :string
