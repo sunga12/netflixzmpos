@@ -1,3 +1,12 @@
 class Inventory < ApplicationRecord
-  belongs_to :product
+  
+  # Associations
+
+  # Attributes
+
+  # Validations
+
+  # Methods
+
+  # Callbacks
 end

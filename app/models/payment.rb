@@ -1,3 +1,14 @@
 class Payment < ApplicationRecord
-  belongs_to :shoptransaction
+  
+  
+  # Associations
+
+  # Attributes
+
+  # Validations
+
+  # Methods
+
+  # Callbacks
+  
 end

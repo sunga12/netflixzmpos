@@ -1,4 +1,13 @@
 class ShopTransactionProduct < ApplicationRecord
-  belongs_to :shoptransaction
-  belongs_to :product
+  
+  # Associations
+
+  # Attributes
+
+  # Validations
+
+  # Methods
+
+  # Callbacks
+  
 end
